@@ -12,4 +12,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	public void sss()
+	{}
 }
